@@ -15,13 +15,13 @@ Le rapport Power BI est composé de **trois pages principales** :
 | 3 | Analyse RH & Salaires | Rémunération & performance |
 
 ## 🧾 1. Présentation
-![SCREENSHOOT](Présentation.PNG)
+![SCREENSHOOT](Projet_files/Présentation.PNG)
 
 ---
 
 ## 🧾 2. Rapport du personnel
 
-![SCREENSHOOT](https://github.com/WalidDataLab/Analyse-des-employ-s/blob/main/Rapport%20du%20personnel.PNG)
+![SCREENSHOOT](https://github.com/WalidDataLab/Analyse-des-employ-s/blob/main/Projet_files/Rapport%20du%20personnel.PNG)
 
 ### 🔎 Présentation générale
 
@@ -48,7 +48,7 @@ Ces filtres permettent de :
 - Masse salariale la plus élevée
 
 > Cela en fait un marché stratégique qui peut être développé pour augmenter la production, ou optimisé pour réduire les coûts.
-![SCREENSHOOT](https://github.com/WalidDataLab/Analyse-des-employ-s/blob/main/Egypt.PNG)
+![SCREENSHOOT](https://github.com/WalidDataLab/Analyse-des-employ-s/blob/main/Projet_files/Egypt.PNG)
 
 
 
@@ -57,7 +57,7 @@ Ces filtres permettent de :
 - Un seul employé recensé dans le département Manufacturing
 
 > Cela suggère que l'entreprise a récemment commencé ses activités dans ce pays, ou qu'une situation particulière affecte ce marché.
-![SCREENSHOOT](lebanon.PNG)
+![SCREENSHOOT](Projet_files/lebanon.PNG)
 
 **📉 Baisse des effectifs (2019–2020)**
 
@@ -66,7 +66,7 @@ Une diminution du nombre d'employés est observée entre 2019 et 2020. En l'abse
 ---
 
 ## 🧾 3. Analyse RH & Salaires
-![SCREENSHOOT](https://github.com/WalidDataLab/Analyse-des-employ-s/blob/main/Analyse%20RH%20%26%20Salaires.PNG)
+![SCREENSHOOT](https://github.com/WalidDataLab/Analyse-des-employ-s/blob/main/Projet_files/Analyse%20RH%20%26%20Salaires.PNG)
 
 
 ### 💰 Présentation générale
@@ -89,7 +89,7 @@ L'écart entre les salaires moyens des hommes et des femmes est faible, ce qui i
 - Le département **HR** affiche le salaire moyen le plus élevé au niveau global
 - En **Arabie Saoudite**, c'est le département **Facilities/Engineering** qui présente les salaires les plus élevés (2 999 $/mois en moyenne)
 
-![SCREENSHOOT](https://github.com/WalidDataLab/Analyse-des-employ-s/blob/main/Saudi%20arabia.PNG)
+![SCREENSHOOT](https://github.com/WalidDataLab/Analyse-des-employ-s/blob/main/Projet_files/Saudi%20arabia.PNG)
 
 **📊 Relation salaire / performance par pays**
 
